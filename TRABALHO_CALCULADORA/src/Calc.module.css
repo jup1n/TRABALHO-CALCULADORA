@@ -1,0 +1,22 @@
+.result{
+    display: flex;
+    justify-content: flex-end;
+    font-size: 25px;
+}
+
+.name{
+    display: flex;
+    justify-content: center;
+}
+
+.calculadora{
+
+    width: 330px;
+    padding: 10px;
+    background: #615F5F;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    font-family: 'Nunito', sans-serif;
+    color: white;
+}
